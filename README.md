@@ -1,7 +1,7 @@
 # Simple-Chatty-Bot-Hyperskill
 A simple bot that will help you in your learning and make it more fun.  
 https://hyperskill.org/projects/97  
-<img src="https://github.com/JohannLieberto/Easy-Hangman-Hyperskill/blob/main/simple-chatty-bot.gif"/>
+<img src="https://github.com/JohannLieberto/Simple-Chatty-Bot-Hyperskill/blob/master/simple-chatty-bot.gif"/>
 
 ## Syntax
 ```
